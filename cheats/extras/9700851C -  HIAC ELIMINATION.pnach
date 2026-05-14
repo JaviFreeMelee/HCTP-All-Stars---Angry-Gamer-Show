@@ -1,0 +1,7 @@
+start in survival 6 man battle royal
+
+HIAC
+patch=1,EE,004920D4,extended,00000001
+
+Ring Out
+patch=1,EE,004920C4,extended,00000000

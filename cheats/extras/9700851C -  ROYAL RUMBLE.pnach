@@ -1,0 +1,328 @@
+
+1.
+royal rumble finisher THE ROCK
+patch=1,EE,104C0F76,extended,000016DA
+
+2.
+royal rumble finisher STEVE AUSTIN
+patch=1,EE,104C10E6,extended,000016DA
+
+3.
+royal rumble finisher TRIPLE H
+patch=1,EE,104C1256,extended,000016DF
+
+4.
+royal rumble finisher UNDERTAKER
+patch=1,EE,104C13C6,extended,000016E5
+
+5.
+royal rumble finisher BOBBY LASHLEY
+patch=1,EE,104C1536,extended,000016E6
+
+6.
+royal rumble finisher ROMAN REIGNS
+patch=1,EE,104C16A6,extended,000016DD
+
+7.
+royal rumble finisher SETH ROLLINS
+patch=1,EE,104C1816,extended,000016DF
+
+8.
+royal rumble finisher KANE
+patch=1,EE,104C1986,extended,000016E5
+
+9.
+royal rumble finisher CODY RHODES
+patch=1,EE,104C1AF6,extended,000016DF
+
+10.
+royal rumble finisher CHRIS BENOIT
+patch=1,EE,104C1C66,extended,000016DA
+
+11.
+royal rumble finisher EDGE
+patch=1,EE,104C1DD6,extended,000016DA
+
+12.
+royal rumble finisher CHRISTIAN
+patch=1,EE,104C1F46,extended,000016DA
+
+13.
+royal rumble finisher MATT HARDY
+patch=1,EE,104C20B6,extended,000016E3
+
+14.
+royal rumble finisher Bryan Danielson
+patch=1,EE,104C2226,extended,000016E3
+
+15.
+royal rumble finisher LITA
+patch=1,EE,104C2396,extended,000016E3
+
+16.
+royal rumble finisher Bubba Ray Dudley
+patch=1,EE,104C2506,extended,000016DD
+
+17.
+royal rumble finisher D-Von Dudley
+patch=1,EE,104C2676,extended,000016DA
+
+18.
+royal rumble finisher THE MIZ
+patch=1,EE,104C27E6,extended,000016E4
+
+19.
+royal rumble finisher KEVIN OWENS
+patch=1,EE,104C2956,extended,000016DD
+
+20.
+royal rumble finisher Scott Steiner
+patch=1,EE,104C2AC6,extended,000016E6
+
+21.
+royal rumble finisher Stephanie McMahon
+patch=1,EE,104C2C36,extended,000016DF
+
+22.
+royal rumble finisher Vince McMahon
+patch=1,EE,104C2DA6,extended,000016DF
+
+23.
+royal rumble finisher Eric Bischoff
+patch=1,EE,104C2F16,extended,000016E3
+
+24.
+royal rumble finisher Rey Mysterio
+patch=1,EE,104C3086,extended,000016E3
+
+25.
+royal rumble finisher JBL
+patch=1,EE,104C31F6,extended,000016E4
+
+26.
+royal rumble finisher Dolph Ziggler
+patch=1,EE,104C3366,extended,000016E7
+
+27.
+royal rumble finisher BIG SHOW
+patch=1,EE,104C34D6,extended,000016E5
+
+28.
+royal rumble finisher TRISH STRATUS
+patch=1,EE,104C3646,extended,000016E3
+
+29.
+royal rumble finisher Shinsuke Nakamura
+patch=1,EE,104C37B6,extended,000016E4
+
+30.
+royal rumble finisher RIKISHI
+patch=1,EE,104C3926,extended,000016E7
+
+31.
+royal rumble finisher RIC FLAIR
+patch=1,EE,104C3A96,extended,000016DA
+
+32.
+royal rumble finisher Stacy Keibler
+patch=1,EE,104C3C06,extended,000016E4
+
+33.
+royal rumble finisher Drew Mcintyre
+patch=1,EE,104C3D76,extended,000016E4
+
+34.
+royal rumble finisher BOOKER T
+patch=1,EE,104C3EE6,extended,000016DA
+
+35.
+royal rumble finisher KOFI KINGSTON
+patch=1,EE,104C4056,extended,000016E7
+
+36.
+royal rumble finisher BIG E
+patch=1,EE,104C41C6,extended,000016E6
+
+37.
+royal rumble finisher SHEAMUS
+patch=1,EE,104C4336,extended,000016E4
+
+38.
+royal rumble finisher CHRIS JERICHO
+patch=1,EE,104C44A6,extended,000016E3
+
+39.
+royal rumble finisher X-PAC
+patch=1,EE,104C4616,extended,000016DF
+
+40.
+royal rumble finisher JOHN CENA
+patch=1,EE,104C4786,extended,000016DE
+
+41.
+royal rumble finisher The Hurricane
+patch=1,EE,104C48F6,extended,000016E5
+
+42.
+royal rumble finisher JON MOXLEY
+patch=1,EE,104C4A66,extended,000016E0
+
+43.
+royal rumble finisher Rob Van Dam
+patch=1,EE,104C4BD6,extended,000016E3
+
+44.
+royal rumble finisher Kenny Omega
+patch=1,EE,104C4D46,extended,000016DE
+
+45.
+royal rumble finisher BROCK LESNAR
+patch=1,EE,104C4EB6,extended,000016DE
+
+46.
+royal rumble finisher Shawn Michaels
+patch=1,EE,104C5026,extended,000016E7
+
+47.
+royal rumble finisher GOLDUST
+patch=1,EE,104C5196,extended,000016E3
+
+48.
+royal rumble finisher GOLDBERG
+patch=1,EE,104C5306,extended,000016E6
+
+49.
+royal rumble finisher SABLE
+patch=1,EE,104C5476,extended,000016DD
+
+50.
+royal rumble finisher Shane McMahon
+patch=1,EE,104C5756,extended,000016E3
+
+51.
+royal rumble finisher JINDER MAHAL
+patch=1,EE,104C5D16,extended,000016DA
+
+52.
+royal rumble finisher Finn Balor
+patch=1,EE,104C5E86,extended,000016E3
+
+53.
+royal rumble finisher Eddie Guerrero
+patch=1,EE,104C5FF6,extended,000016E3
+
+54.
+royal rumble finisher Braun Strowman
+patch=1,EE,104C6166,extended,000016E6
+
+55.
+royal rumble finisher BRET HART
+patch=1,EE,104C62D6,extended,000016DA
+
+56.
+royal rumble finisher SAMI ZAYN
+patch=1,EE,104C6446,extended,000016E4
+
+57.
+royal rumble finisher BATISTA
+patch=1,EE,104C65B6,extended,000016DD
+
+58.
+royal rumble finisher RANDY ORTON
+patch=1,EE,104C6726,extended,000016DA
+
+59.
+royal rumble finisher John Morrison
+patch=1,EE,104C6896,extended,000016E7
+
+60.
+royal rumble finisher AJ STYLES
+patch=1,EE,104C6A06,extended,000016E3
+
+61.
+royal rumble finisher DDP
+patch=1,EE,104C6B76,extended,000016E4
+
+62.
+royal rumble finisher TAZZ
+patch=1,EE,104C6CE6,extended,000016DA
+
+63.
+royal rumble finisher KEVIN NASH
+patch=1,EE,104C6E56,extended,000016E4
+
+64.
+royal rumble finisher KURT ANGLE
+patch=1,EE,104C6FC6,extended,000016DA
+
+65.
+royal rumble finisher Mick Foley
+patch=1,EE,104C7136,extended,000016E0
+
+66.
+royal rumble finisher THE BOOGEYMAN
+patch=1,EE,104C72A6,extended,000016E5
+
+67.
+royal rumble finisher GREAT KHALI
+patch=1,EE,104C7416,extended,000016E0
+
+68.
+royal rumble finisher CM PUNK
+patch=1,EE,104C7586,extended,000016DE
+
+69.
+royal rumble finisher The Undertaker
+patch=1,EE,104C76F6,extended,000016E4
+
+70.
+royal rumble finisher JEY USO
+patch=1,EE,104C7866,extended,000016E7
+
+71.
+royal rumble finisher JIMMY USO
+patch=1,EE,104C79D6,extended,000016E7
+
+72.
+royal rumble finisher SCOTT HALL
+patch=1,EE,104C7B46,extended,000016E5
+
+73.
+royal rumble finisher Mark Henry
+patch=1,EE,104C7CB6,extended,000016E6
+
+74.
+royal rumble finisher Ultimate Warrior
+patch=1,EE,104C7E26,extended,000016E6
+
+75.
+royal rumble finisher Hulk Hogan
+patch=1,EE,104C7F96,extended,000016E4
+
+76.
+royal rumble finisher UMAGA
+patch=1,EE,104C8106,extended,000016E0
+
+77.
+royal rumble finisher STING
+patch=1,EE,104C8276,extended,000016E5
+
+78.
+royal rumble finisher The Fiend
+patch=1,EE,104C83E6,extended,000016E0
+
+79.
+royal rumble finisher Andre The Giant
+patch=1,EE,104C8556,extended,000016E6
+
+80.
+royal rumble finisher SAMOA JOE
+patch=1,EE,104C86C6,extended,000016DE
+
+81.
+royal rumble finisher TORRIE WILSON
+patch=1,EE,104C8836,extended,000016E3
+
+82.
+royal rumble finisher JEFF HARDY
+patch=1,EE,104C89A6,extended,000016E3

@@ -1,0 +1,19 @@
+start in survival 6 man battle royal
+
+ladder on on
+patch=1,EE,004920D3,extended,00000001
+
+battle royal off
+patch=1,EE,004920CB,extended,00000001
+
+Pinfalls off
+patch=1,EE,004920C1,extended,00000000
+
+Submission off
+patch=1,EE,004920C7,extended,00000000
+
+KOs off
+patch=1,EE,004920C2,extended,00000000
+
+Ring Out
+patch=1,EE,004920C4,extended,00000000
