@@ -1,0 +1,27 @@
+//All Items In Shop Unlocked
+
+patch=1,EE,004FB3B3,extended,000000FF
+patch=1,EE,204FB3B4,extended,FFFFFFFF
+patch=1,EE,104FB3B8,extended,0000FFFF
+patch=1,EE,E0031460,extended,0026FF9E
+patch=1,EE,E0020006,extended,0026FF9C
+patch=1,EE,2026FF9C,extended,00000000
+patch=1,EE,2026FF40,extended,10000008
+
+no glossy wrestlers
+patch=1,EE,2040F33C,extended,42000000
+
+
+// 16:9
+patch=1,EE,001040e4,word,3c013f40 // 00000000 hor fov
+patch=1,EE,001040f0,word,44810000 // 00000000 
+patch=1,EE,001040f4,word,4600c602 // 00000000 
+patch=1,EE,00206a5c,word,3c023f08 // 3c023f80 camera fix
+
+patch=1,EE,201026CC,extended,00000000
+patch=1,EE,20102934,extended,00000000
+patch=1,EE,E0041100,extended,00756060
+patch=1,EE,20756058,extended,00000001
+patch=1,EE,20756060,extended,00001000
+patch=1,EE,20756080,extended,00000001
+patch=1,EE,20756088,extended,00001000
